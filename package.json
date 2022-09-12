@@ -15,5 +15,8 @@
     "url": "https://github.com/pedrooplx/hello-world-node/issues"
   },
   "homepage": "https://github.com/pedrooplx/hello-world-node#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
